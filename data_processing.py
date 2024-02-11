@@ -1,10 +1,14 @@
-print('this is the code related to data processing')
-
 a = 5
 b = 7
 
 def sum(a,b):
     c = a + b
-    return a
+    return c
 
-print('added a new function sum which is not correct')
+print('sum function')
+
+def multiplication(a,b):
+    c = a * b
+    return c
+
+print('multiplication function')

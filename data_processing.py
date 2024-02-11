@@ -8,7 +8,13 @@ def sum(a,b):
 print('sum function')
 
 def multiplication(a,b):
-    c = a * b
-    return c
+    d = a * b
+    return d
 
 print('multiplication function')
+
+def division(a,b):
+    e = a / b
+    return e
+
+print('division function')
